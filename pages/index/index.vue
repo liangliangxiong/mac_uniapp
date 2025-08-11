@@ -1,7 +1,7 @@
 <template>
 	<view class="container">
 		<view class="header">
-			<image src="@/static/banner.png" mode="widthFix" class="banner"></image>
+			<image src="https://www.apple.com/v/home/cg/images/promos/iphone-tradein/promo_iphone_tradein__bugw15ka691e_large_2x.jpg" mode="widthFix" class="banner"></image>
 			<text class="title">活动报名小程序</text>
 		</view>
 		<view class="activity-list">
