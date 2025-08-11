@@ -1,7 +1,7 @@
 {
-    "name" : "mac_uniapp",
+    "name" : "约吧活动",
     "appid" : "__UNI__75D211F",
-    "description" : "",
+    "description" : "无论是城市里的小众展览、街角咖啡馆的手作工坊，还是公司团建的户外拓展、亲子家庭的农场体验，在这里，你都能快速找到心仪的活动，一键完成预约。​",
     "versionName" : "1.0.0",
     "versionCode" : "100",
     "transformPx" : false,
