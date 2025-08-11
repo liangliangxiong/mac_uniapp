@@ -1,10 +1,10 @@
 import App from './App'
-import uView from 'uview-ui';
+// import uView from 'uview-ui';
 
 // #ifndef VUE3
 import Vue from 'vue'
 //使用
-Vue.use(uView);
+// Vue.use(uView);
 
 import './uni.promisify.adaptor'
 Vue.config.productionTip = false
